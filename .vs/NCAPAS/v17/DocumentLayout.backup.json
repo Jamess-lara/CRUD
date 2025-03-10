@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12558594-8BCA-4133-81B9-557654AE5CDC}|Crud.BL\\Crud.BL.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.bl\\service\\contactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12558594-8BCA-4133-81B9-557654AE5CDC}|Crud.BL\\Crud.BL.csproj|solutionrelative:crud.bl\\service\\contactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED05A7-B968-43BA-9F22-FE912A765C9E}|Crud.DL\\Crud.DL.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.dl\\repositorio\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED05A7-B968-43BA-9F22-FE912A765C9E}|Crud.DL\\Crud.DL.csproj|solutionrelative:crud.dl\\repositorio\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A0711D-BCE4-4D1E-A21F-F9C26F5FD17F}|ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\proyectocrud.models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A0711D-BCE4-4D1E-A21F-F9C26F5FD17F}|ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj|solutionrelative:proyectocrud.models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\models\\viewmodels\\vmcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\models\\viewmodels\\vmcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|c:\\users\\james\\desktop\\net_core\\ncapas\\ncapas\\crud.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2ADF451-499B-4095-86DB-7C07FD62717C}|Crud.AplicacionWeb\\Crud.AplicacionWeb.csproj|solutionrelative:crud.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.DL\\Repositorio\\ContactoRepository.cs",
+              "RelativeDocumentMoniker": "Crud.DL\\Repositorio\\ContactoRepository.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.DL\\Repositorio\\ContactoRepository.cs",
+              "RelativeToolTip": "Crud.DL\\Repositorio\\ContactoRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:00:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\appsettings.json",
+              "RelativeToolTip": "Crud.AplicacionWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T22:29:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Crud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T21:16:57.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T22:24:11.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\ProyectoCRUD.Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "ProyectoCRUD.Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\ProyectoCRUD.Models\\Contacto.cs",
+              "RelativeToolTip": "ProyectoCRUD.Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:21:46.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VMContacto.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "RelativeToolTip": "Crud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:21:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:56:06.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactoService.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.BL\\Service\\ContactoService.cs",
+              "RelativeDocumentMoniker": "Crud.BL\\Service\\ContactoService.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.BL\\Service\\ContactoService.cs",
+              "RelativeToolTip": "Crud.BL\\Service\\ContactoService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAASwC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:52:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Program.cs",
+              "RelativeToolTip": "Crud.AplicacionWeb\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:50:17.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

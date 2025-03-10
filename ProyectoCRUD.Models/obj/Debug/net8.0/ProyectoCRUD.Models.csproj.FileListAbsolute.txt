@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\bin\Debug\net8.0\ProyectoCRUD.Models.deps.json
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\bin\Debug\net8.0\ProyectoCRUD.Models.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\bin\Debug\net8.0\ProyectoCRUD.Models.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.AssemblyInfo.cs
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\refint\ProyectoCRUD.Models.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ProyectoCRUD.Models.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\ProyectoCRUD.Models\obj\Debug\net8.0\ref\ProyectoCRUD.Models.dll

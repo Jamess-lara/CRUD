@@ -1,0 +1,17 @@
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\Crud.BL.deps.json
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\Crud.BL.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\Crud.BL.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.AssemblyInfo.cs
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\refint\Crud.BL.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\ref\Crud.BL.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\Crud.DL.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\ProyectoCRUD.Models.dll
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\Crud.DL.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\bin\Debug\net8.0\ProyectoCRUD.Models.pdb
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\NET_CORE\NCAPAS\NCAPAS\Crud.BL\obj\Debug\net8.0\Crud.BL.csproj.Up2Date
