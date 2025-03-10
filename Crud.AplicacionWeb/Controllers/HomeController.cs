@@ -23,6 +23,8 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    //Este es el metodo para listar
     [HttpGet]
     public async Task<IActionResult> Lista()
     {
@@ -39,6 +41,7 @@ public class HomeController : Controller
         return StatusCode(StatusCodes.Status200OK, lista);
     }
 
+    //Este es el metodo para Insertar
     [HttpPost]
     public async Task<IActionResult> Insertar([FromBody] VMContacto modelo)
     {
@@ -53,6 +56,7 @@ public class HomeController : Controller
         return StatusCode(StatusCodes.Status200OK, new {valor = respuesta});
     }
 
+    //Este es el metodo para Actualizar
     [HttpPut]
     public async Task<IActionResult> Actualizar([FromBody] VMContacto modelo)
     {
@@ -68,6 +72,8 @@ public class HomeController : Controller
         return StatusCode(StatusCodes.Status200OK, new { valor = respuesta });
     }
 
+
+    //Este es el metodo para Eliminar
     [HttpDelete]
     public async Task<IActionResult> Eliminar(int id)
     {

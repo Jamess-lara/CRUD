@@ -58,8 +58,7 @@
               "RelativeToolTip": "Crud.DL\\Repositorio\\ContactoRepository.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAASwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:00:48.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:00:48.603Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Crud.AplicacionWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T22:29:55.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T22:29:55.925Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Crud.AplicacionWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAJEAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T21:16:57.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T21:16:57.381Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Crud.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T22:24:11.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T22:24:11.541Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "ProyectoCRUD.Models\\Contacto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:21:46.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T20:21:46.757Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "Crud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T20:21:03.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T20:21:03.863Z"
             },
             {
               "$type": "Document",
@@ -134,7 +128,7 @@
               "RelativeDocumentMoniker": "Crud.AplicacionWeb\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\James\\Desktop\\NET_CORE\\NCAPAS\\NCAPAS\\Crud.AplicacionWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Crud.AplicacionWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA5wEsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T19:56:06.206Z",
               "EditorCaption": ""
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Crud.BL\\Service\\ContactoService.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAASwC4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:52:31.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:52:31.544Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Crud.AplicacionWeb\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:50:17.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:50:17.496Z"
             }
           ]
         }
